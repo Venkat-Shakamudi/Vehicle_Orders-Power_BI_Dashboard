@@ -8,21 +8,29 @@ Total Quantity Sold: 99K
 
 📈 Visualizations Used
 Bar Chart – Used to show revenue by country and product line.
+
 Line Chart – Visualizes revenue trends by month.
+
 Combo Chart – Displays both revenue and quantity across product lines and deal sizes.
+
 Tables – Show revenue and quantity split by order status.
+
 Slicers – Enabled users to filter data by product line, country, and order date.
+
 Buttons & Clear Slicer Action – Enhanced user interaction.
+
 Card Visuals – To highlight KPIs like total revenue and quantity.
 
 🧠 Concepts Applied
 Created hierarchies to enable drill-down and detailed analysis by date and product categories.
+
 Used DAX (Data Analysis Expressions) to build explicit measures for KPIs.
+
 Customized the dashboard using the Format tab to make it visually appealing and accessible for stakeholders.
 
 🛠 Tools & Technologies
 Power BI Desktop
-Excel (source file: Vehicle Orders.xlsx)
+
 DAX for calculated fields and measures
 
 📁 Files
