@@ -30,5 +30,5 @@ DAX for calculated fields and measures
 Screenshot.png – Snapshot of the final dashboard (optional if added to repo).
 
 📌 Purpose
-This report was created as part of a learning and hands-on project to strengthen Power BI skills and demonstrate proficiency in data visualization and storytelling for business data.
+This <a href="https://github.com/Venkat-Shakamudi/Vehicle_Orders-Power_BI_Dashboard/blob/main/Dashboard.png"> report</a> was created as part of a learning and hands-on project to strengthen Power BI skills and demonstrate proficiency in data visualization and storytelling for business data.
 
