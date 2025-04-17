@@ -26,7 +26,7 @@ Excel (source file: Vehicle Orders.xlsx)
 DAX for calculated fields and measures
 
 📁 Files
-Vehicle Orders (1).xlsx – Source dataset used for building the report.
+<a href="https://github.com/Venkat-Shakamudi/Vehicle_Orders-Power_BI_Dashboard/blob/main/Vehicle%20Orders.xlsx"> Source dataset used for building the report </a>
 Screenshot.png – Snapshot of the final dashboard (optional if added to repo).
 
 📌 Purpose
